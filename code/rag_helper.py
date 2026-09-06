@@ -23,7 +23,7 @@ class RAGBase:
         llm_client,
         instructions=INSTRUCTIONS,
         prompt_template=PROMPT_TEMPLATE,
-        course='llm-zoomcamp',
+        course='llm',
         model='gpt-5.4-mini'
     ):
         self.index = index
