@@ -39,10 +39,3 @@ trajectory.
 
 Complete the hands-on assignment to test your understanding of evaluation
 
-
-## Original workshop recording
-
-This module was taught as a live workshop, which we chopped into the
-per-lesson videos above. To watch the full uncut recording:
-
-- RAG and Agents Evaluation: Measuring Retrieval and LLM Answer Quality
